@@ -65,7 +65,7 @@ Total Orders = DISTINCTCOUNT(Superstore[Order ID])
 3. Refresh data and interact with filters
 
 ## 🔗 Live Dashboard
-https://drive.google.com/file/d/1wyPbH7j5fzueki4huq8f3nD3s362pbBC/view?usp=drivesdk
+[Click Here to View Live Dashboard](https://drive.google.com/file/d/1wyPbH7j5fzueki4huq8f3nD3s362pbBC/view?usp=drivesdk)
 
 ## 👩‍💻 Created By
 **Kiruba V** | Aspiring Data Analyst | Power BI | SQL | Python
