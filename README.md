@@ -39,6 +39,7 @@ Total Sales = SUM(Superstore[Sales])
 Total Profit = SUM(Superstore[Profit])
 Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
 Total Orders = DISTINCTCOUNT(Superstore[Order ID])
+```
 
 ## 📂 Dataset
 - **Source:** Superstore Dataset from Kaggle
